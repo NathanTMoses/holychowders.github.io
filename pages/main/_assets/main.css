@@ -1,0 +1,7 @@
+@import "../../_global_assets/stylesheet.css";
+
+
+article#wip-notice {
+    text-align: center;
+    font-weight: bold;
+}

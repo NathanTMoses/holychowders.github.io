@@ -1,3 +1,5 @@
+// FIXME: There are pages nested too deep for these links to work,
+// thus there are files such as this for those pages.
 document.write(`
 <header id="main-header">
     <h1>
